@@ -7,7 +7,7 @@ echo "Yang penting Halal";
 echo "Gajinya gedek";
 echo "Bersama Azi Zaitul Mukaramah";
 echo "Saya ingin ikut bergabung";
-echo "Kita Membuka Bisnis Makanan
+echo "Kita Membuka Bisnis Makanan";
 <?
     </body>
   </head>
