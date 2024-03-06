@@ -3,9 +3,11 @@
     <title>Mari Berbisnis Bersamaku</title>
     <body>
       <?php
-echo "Yamg penting Halal";
+echo "Yang penting Halal";
 echo "Gajinya gedek";
 echo "Bersama Azi Zaitul Mukaramah";
+echo "Saya ingin ikut bergabung";
+echo "Kita Membuka Bisnis Makanan";
 <?
     </body>
   </head>
